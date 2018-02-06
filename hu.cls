@@ -104,7 +104,7 @@
 \duolingual{@organisationlabel}{Organisation}{Organisatie}
 \duolingual{@organisationslabel}{Organisations}{Organisaties}
 \duolingual{@datelabel}{Date}{Datum}
-\duolingual{@hu}{Utrecht University of Applied Science\\}{Hogeschool Utrecht}
+\duolingual{@hu}{Utrecht University of Applied Sciences\\}{Hogeschool Utrecht}
 \duolingual{@fac}{Faculty of Nature and Technology}{Faculteit Natuur en Techniek}
 
 \def\@subtitle{}

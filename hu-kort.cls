@@ -88,7 +88,7 @@
 \duolingual{@authorslabel}{Authors}{Auteurs}
 \duolingual{@teacherlabel}{Teacher}{Docent}
 \duolingual{@teacherslabel}{Teachers}{Docenten}
-\duolingual{@hu}{Utrecht University of Applied Science}{Hogeschool Utrecht}
+\duolingual{@hu}{Utrecht University of Applied Sciences}{Hogeschool Utrecht}
 \duolingual{@inst}{Institute of ICT}{Instituut voor ICT}
 
 \RequirePackage{fontspec, xunicode, xltxtra, polyglossia, wrapfig, fancyhdr}

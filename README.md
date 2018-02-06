@@ -1,4 +1,4 @@
-Class files for my research documents at the Utrecht University of Applied Science. Consists of a hu class file and a wrapper around the biblatex package activating APA style (required) and fixing some common errors when using APA with Polyglossia. Also includes a class based on article for shorter documents and a beamer wrapper class called hu-presentatie.
+Class files for my research documents at the Utrecht University of Applied Sciences. Consists of a hu class file and a wrapper around the biblatex package activating APA style (required) and fixing some common errors when using APA with Polyglossia. Also includes a class based on article for shorter documents and a beamer wrapper class called hu-presentatie.
 
 # hu.cls
 
